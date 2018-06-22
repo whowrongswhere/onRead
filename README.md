@@ -1,5 +1,7 @@
-# onRead
-Beego based RestFul API service
+# onRead在线阅读(服务端)
+- 使用golang语言
+- 基于Beego RestFul API前后端分离模式
+- 使用mysql数据库
 
 ## 特性
 - RestFul API
